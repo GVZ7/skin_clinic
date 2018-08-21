@@ -1,0 +1,10 @@
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\bin\Debug\skin_clinic.exe.config
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\bin\Debug\skin_clinic.exe
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\bin\Debug\skin_clinic.pdb
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\obj\Debug\skin_clinic.csprojAssemblyReference.cache
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\obj\Debug\skin_clinic.Form1.resources
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\obj\Debug\skin_clinic.Properties.Resources.resources
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\obj\Debug\skin_clinic.csproj.GenerateResource.cache
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\obj\Debug\skin_clinic.csproj.CoreCompileInputs.cache
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\obj\Debug\skin_clinic.exe
+C:\Users\ridh\Desktop\skin_clinic\skin_clinic\skin_clinic\obj\Debug\skin_clinic.pdb
